@@ -3,4 +3,5 @@ A simple quiz app which contains core concepts of react. This project use useRed
 
 #Commands:
 npm run server - For running server (Server is not actual one, it is just a file which is being held as server using json-server package.)
+
 npm start  - For running application
